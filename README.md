@@ -7,3 +7,5 @@ https://linux.brostrend.com/advanced/usb_modeswitch/
 https://www.tendacn.com/download/detail-5294.html  
 
 Sometimes you need to reinstall the driver after updating your system (can be annoying)
+
+Also, try reseting the saved configuration on your wireless connection if it refuses to connect after an update: Network Settings > YOUR WIRELESS CONNECTION > Reset > Reset (on linux Mint)
